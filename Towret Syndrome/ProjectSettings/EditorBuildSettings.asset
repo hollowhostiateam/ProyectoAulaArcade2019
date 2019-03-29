@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/Men\xFA.unity"
+    guid: 4bc15fec11fab8d4584479b4688cdf4a
+  - enabled: 1
+    path: Assets/Scenes/Select Mission.unity
+    guid: 9f0e14813e63c424cad64e5dead227dc
+  - enabled: 1
+    path: Assets/Scenes/Opciones.unity
+    guid: bc727f130830a494297e686ec5f41732
+  - enabled: 1
+    path: Assets/Scenes/Biblioteca.unity
+    guid: c4cffe40dbb062d488007799396b755e
+  - enabled: 1
+    path: Assets/Scenes/PRESS START.unity
+    guid: 2e1267702c3e9234ba4615f953ca735c
+  m_configObjects: {}
